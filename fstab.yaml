@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p170505-e1825543.adobeaemcloud.com/bin/franklin.delivery/McfadyenIT/frescopa/main"
+    url: "https://author-p170505-e1826705.adobeaemcloud.com/bin/franklin.delivery/McfadyenIT/frescopa/main"
     type: "markup"
     suffix: ".html"
 folders:
